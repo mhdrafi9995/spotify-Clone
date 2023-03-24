@@ -1,4 +1,4 @@
-# spoty
+# spotify Clone
 
 A new Flutter project.
 
